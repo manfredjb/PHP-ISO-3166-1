@@ -1,4 +1,3 @@
-```php
 <?php
 return [
     'AFG' => ' Afganistán',
@@ -252,4 +251,3 @@ return [
     'ZWE' => ' Zimbabue',
 
 ];
-```
